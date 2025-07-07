@@ -25,11 +25,6 @@ Numerical & Stochastic Calculations: NumPy, SciPy
 
 Data Handling: Pandas
 
-Results from a Case Study
-Analysis of a representative case study demonstrated the tool's capability to quantify risk. Under a specific set of assumptions, the model yielded an estimated finite-time ruin probability of 1.15% over a 50-year horizon.
-
-(You can replace the placeholder link above with a real image of a chart from your analysis)
-
 ## How To Run Locally
 To get a local copy up and running, follow these simple steps.
 
