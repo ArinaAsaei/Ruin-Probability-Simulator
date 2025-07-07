@@ -59,11 +59,11 @@ The application should now be open and running in your web browser.
 ## Further Reading
 
 For a deeper dive into the mathematical model, methodology, and detailed analysis, please refer to the full project report.
--> Read the Full Technical Report
+
 [**Read the Full Technical Report**](https://docs.google.com/document/d/1T4bwsijVyeunCSnKChLn2qN6AErdtEDieC9OdYlxZWw/edit?usp=sharing)
 
 ## Live Demo in Google Colab
 
 You can run a live, interactive demo of this application directly in your browser using Google Colab, without any local installation.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][def]
-[def]: https://colab.research.google.com/drive/1mCruVeHAqhcoOOKO8OAKdWAp4Rdt2ZHI
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mCruVeHAqhcoOOKO8OAKdWAp4Rdt2ZHI)
