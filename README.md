@@ -34,21 +34,23 @@ You need to have Python 3.8+ and pip installed on your system.
 Installation & Execution
 Clone the repository:
 
-Bash
 
+
+```sh
 git clone https://github.com/ArinaAsaei/your-repository-name.git
 cd your-repository-name
+```
 Install the required packages:
-(First, make sure you have a requirements.txt file in your repository)
 
-Bash
 
+```sh
 pip install -r requirements.txt
+```
 Run the Streamlit app:
 
-Bash
-
+```sh
 streamlit run app.py
+``
 The application should now be open and running in your web browser.
 
 ## Further Reading
