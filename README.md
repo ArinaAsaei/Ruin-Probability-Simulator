@@ -50,7 +50,7 @@ Run the Streamlit app:
 
 ```sh
 streamlit run app.py
-``
+```
 The application should now be open and running in your web browser.
 
 ## Further Reading
